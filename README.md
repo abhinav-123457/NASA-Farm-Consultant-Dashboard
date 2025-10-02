@@ -1,6 +1,6 @@
 <xaiArtifact artifact_id="41076753-f36d-4dc7-b7db-5810a9c7e902" artifact_version_id="8b239a1e-2d21-4ad4-a031-241769e53d83" title="README.md" contentType="text/markdown">
 
-# Farm Simulator
+# NASA-Farm-Consultant-Dashboard
 
 A comprehensive and educational farm simulation platform built with Next.js and TypeScript, integrating real NASA datasets, livestock management, manual harvesting, and a detailed tutorial system to teach players about sustainable agriculture.
 
