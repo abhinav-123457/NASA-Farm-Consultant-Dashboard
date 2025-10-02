@@ -44,7 +44,7 @@ The Farm Simulator is an interactive web-based application designed to educate u
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   NASA-Farm-Consultant-Dashboard
+   cd NASA-Farm-Consultant-Dashboard
    ```
 3. **Install Dependencies**:
    Ensure you have Node.js installed, then run:
