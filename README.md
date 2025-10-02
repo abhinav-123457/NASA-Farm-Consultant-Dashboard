@@ -40,7 +40,7 @@ The Farm Simulator is an interactive web-based application designed to educate u
 
 1. **Clone the Repository**:
    ```bash:disable-run
-   git clone (https://github.com/abhinav-123457/NASA-Farm-Consultant-Dashboard.git)
+   git clone [https://github.com/abhinav-123457/NASA-Farm-Consultant-Dashboard](https://github.com/abhinav-123457/NASA-Farm-Consultant-Dashboard.git)
    ```
 2. **Navigate to the Project Directory**:
    ```bash
