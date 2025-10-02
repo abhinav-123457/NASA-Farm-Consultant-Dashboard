@@ -40,16 +40,16 @@ The Farm Simulator is an interactive web-based application designed to educate u
 
 1. **Clone the Repository**:
    ```bash:disable-run
-   git clone [https://github.com/abhinav-123457/NASA-Farm-Consultant-Dashboard.git](https://github.com/abhinav-123457/NASA-Farm-Consultant-Dashboard.git)
+   git clone https://github.com/abhinav-123457/NASA-Farm-Consultant-Dashboard.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd farm-simulator
+   NASA-Farm-Consultant-Dashboard
    ```
 3. **Install Dependencies**:
    Ensure you have Node.js installed, then run:
    ```bash
-   npm install
+   npx next dev
    ```
 4. **Start the Development Server**:
    ```bash
