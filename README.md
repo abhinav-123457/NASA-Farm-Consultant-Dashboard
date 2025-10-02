@@ -103,4 +103,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - The Next.js and TypeScript communities for robust tools and documentation.
 
 </xaiArtifact>
-```
