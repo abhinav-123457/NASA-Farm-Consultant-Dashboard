@@ -1,4 +1,4 @@
-<xaiArtifact artifact_id="41076753-f36d-4dc7-b7db-5810a9c7e902" artifact_version_id="8b239a1e-2d21-4ad4-a031-241769e53d83" title="README.md" contentType="text/markdown">
+
 
 # NASA-Farm-Consultant-Dashboard
 
@@ -102,4 +102,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - NASA for providing open datasets (POWER, Landsat, Sentinel, SMAP).
 - The Next.js and TypeScript communities for robust tools and documentation.
 
-</xaiArtifact>
+
